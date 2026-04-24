@@ -92,4 +92,10 @@ export const EDUCATION = [
     period: "2021 – 2022",
     score: "80.3 %",
   },
+  {
+    institution: "Kendriya Vidyalaya No.2 Gaya",
+    degree: "Class 10",
+    period: "2019 – 2020",
+    score: "85.2 %",
+  }
 ];
